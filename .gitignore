@@ -1,0 +1,17 @@
+screenshots/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.csv
+*.json
+*.xml
+*.zip
+.vemv/
+__pycache__/
+*.pyc
+screenshots/
