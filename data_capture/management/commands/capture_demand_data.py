@@ -459,7 +459,7 @@ class Command(BaseCommand):
 
             self.stdout.write(
                 self.style.WARNING(
-                    "\n🛑 Script stopped by user"
+                    "\n🛑 Script stopped by  user"
                 )
             )
 
